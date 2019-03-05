@@ -1,0 +1,34 @@
+acount details
+
+username : epiz_22927133
+
+label : Website for anigato.epizy.com
+
+pass : Spubh5UMBnra39
+
+
+
+
+
+ftp details
+
+hostname : ftpupload.net
+
+username : epiz_22927133
+
+pass :  Spubh5UMBnra39
+
+post : 21
+
+
+
+
+Current database 
+
+hostname : sql303.epizy.com
+
+user name : epiz_22927133
+
+password : Spubh5UMBnra39
+
+db name : epiz_22927133_phpdasar
